@@ -1,4 +1,5 @@
 cd ../src
-javac com/mizuday/Main.java
+javac com/mizuday/*.java
 java com.mizuday.Main
 pause
+

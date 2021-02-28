@@ -1,6 +1,6 @@
 package com.mizuday;
 
-public class Graph<T> {
+class Graph<T> {
     private T prec;
     private T succ;
 

@@ -7,9 +7,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import com.mizuday.*;
 
-
-public class Main {
+class Main {
 
     public static void main(String[] args) {
         while (true) {
@@ -39,7 +39,6 @@ public class Main {
                 String[] temp = line.split(", ");
                 data.add(temp);
                 line = reader.readLine();
-
             }
             reader.close();
 
