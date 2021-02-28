@@ -1,0 +1,8 @@
+punyaPacar, sudahKerja.
+sudahKerja, sudahKuliah.
+sudahSMP, sudahSD.
+sudahSD.
+beliRumah, sudahNikah, sudahKerja.
+sudahKuliah, sudahSMA.
+sudahSMA, sudahSMP.
+sudahNikah, punyaPacar.
