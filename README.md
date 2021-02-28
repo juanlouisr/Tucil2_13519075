@@ -11,13 +11,13 @@ Jalankan (double click) Tucil2_13519075.bat
 Gunakan nama file tanpa ekstensi txtnya seperti `contoh1` untuk memakai file contoh1.txt
 
 ## Algoritma
-Merekursif List yang berisi Object Graph<String> dengan dan men pop indeks 0 dari list;
+Merekursif List yang berisi Object `Graph<String>` dengan dan men pop indeks 0 dari list;
 
 Memasukkan ke himpunan solusi mereka yang tidak memiliki prerequisite
 
 Memasukkan ke himpunan solusi mereka yang memliki prerequisite yang sudah di dalam himpunan solusi
 
-Jika tidak dimasukkan kedalam himpunan solusi maka isi list pada saat itu akan dimasukkan ke dalam List Graph<String> ke posisi paling akhir
+Jika tidak dimasukkan kedalam himpunan solusi maka isi list pada saat itu akan dimasukkan ke dalam List `Graph<String>` ke posisi paling akhir
 
 Menoutput (log) himpunan list solusi (satu mata kuliah per semester) jika List sudah kosong (semua Mata kuliah sudah masuk kedalam himpunan solusi)
 

@@ -1,0 +1,6 @@
+algorithms, basic_programming.
+data_structures, basic_programming.
+introduction_to_game_developtment, data_structures, algorithms.
+advanced_game_developtment, introduction_to_game_developtment, object_oriented_programming.
+basic_programming.
+object_oriented_programming, data_structures, algorithms.

@@ -1,0 +1,6 @@
+6034 Artificial Intelligence, 60001 Introduction to Computer Science Programming in Python.
+6006 Introduction to Algorithms, 6009 Fundamentals of Programming.
+6009 Fundamentals of Programming, 60001 Introduction to Computer Science Programming in Python.
+60001 Introduction to Computer Science Programming in Python.
+6833 The Human Intelligence Enterprise, 6034 Artificial Intelligence.
+6836 Multicore Programming, 6006 Introduction to Algorithms.
